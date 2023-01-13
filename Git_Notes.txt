@@ -43,5 +43,5 @@ Note:
 Initiate
 Staging
 Commit
-deploy
+push
 *********************
